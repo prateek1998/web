@@ -1,8 +1,10 @@
+.body{
+    background-color:black;
+}
 .home {
   background-image: url('https://github.com/prateek1998/web/blob/master/school.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-color:black;
   background-size: cover;
   background-position: 10% 50%;
   min-height: 100px;
